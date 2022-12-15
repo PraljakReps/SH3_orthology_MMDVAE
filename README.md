@@ -1,1 +1,1 @@
-# SH3_orthology_MMDVAE
+# Xinran's implemention of InfoVAE in pytorch
